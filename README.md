@@ -1,6 +1,6 @@
 ### Hi there 👋 i'm Everton Rufino
 
-- 🔭 I’m currently working on Font-end
+- 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning JavaScript, React.js and typescript
 - 🤔 I’m looking for help with my first opportunity to work
 - 📫 How to reach me: https://www.linkedin.com/in/everton-rufino-da-silva-7328b1a6/
